@@ -1,0 +1,17 @@
+body {
+    font-family: 'Questrial', sans-serif;
+}
+html, 
+body,
+.container-fluid,
+.content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.card {
+    background-color: #cce5ff;
+}
